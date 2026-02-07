@@ -1,0 +1,82 @@
+An example of an added and saved a new movie
+
+Movie Management System
+1	Add New Movie and Save
+2	Generate List of Random Movies Released in a Year
+3	Generate List of Random Movies
+4	Exit
+
+Enter an option: 1
+Enter duration: 
+100
+Enter movie title: 
+We are Gold
+Enter year: 
+2019
+Saving movies...
+Added movie to data file!
+
+
+
+
+
+An example of a generated list of movies released in a year 
+
+Movie Management System
+1	Add New Movie and Save
+2	Generate List of Random Movies Released in a Year
+3	Generate List of Random Movies
+4	Exit
+
+Enter an option: 2
+Enter in year: 
+1996
+
+Movie List
+Duration	Year	Title
+103		1996	DragonHeart
+93		1996	Trainspotting
+145		1996	Independence Day
+
+Total duration: 341 minutes
+
+
+
+
+
+
+
+An example of invalid option 
+
+Movie Management System
+1	Add New Movie and Save
+2	Generate List of Random Movies Released in a Year
+3	Generate List of Random Movies
+4	Exit
+
+Enter an option: 5
+Invalid Option!
+
+
+
+
+
+
+An example of a generated list of random movies 
+
+Movie Management System
+1	Add New Movie and Save
+2	Generate List of Random Movies Released in a Year
+3	Generate List of Random Movies
+4	Exit
+
+Enter an option: 3
+Enter number of movies: 
+5
+190		1995	Dilwale Dulhania Le Jayenge
+109		2009	Law Abiding Citizen
+93		2017	Rescue Under Fire
+139		2014	Divergent
+114		2015	San Andreas
+
+Total duration: 645 minutes
